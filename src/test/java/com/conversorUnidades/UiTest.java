@@ -6,7 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UiTeste {
+public class UiTest {
     @Test
     @DisplayName("Valida se a opção 1 selecionada retorna INCHES_CM")
     void testaOpcaoValida1() {
